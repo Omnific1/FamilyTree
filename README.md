@@ -27,4 +27,7 @@ For individuals connected back to Bob via multiple equally short paths (i.e., mu
 ## Purpose 
 This approach simplifies understanding complex familial connections by focusing only on those that are most directly related according to your criteria. It helps create annotated cards for each person showing their closest relatives marked with asterisks (*), making it easier for users like Bob to quickly identify their nearest familial ties within large networks.
 
+![image](https://github.com/user-attachments/assets/57ce2e2d-3a38-4226-8124-50bd08b7489f)
+
+
 
