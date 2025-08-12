@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 #
 # A little script to untangle a family tree.
 # The goal is to take a bunch of family data and, starting from one person,
