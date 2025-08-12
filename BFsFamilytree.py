@@ -8,7 +8,7 @@ def build_family_graph(family_data):
         person = card["Name"]
         father = card.get("Father")
         mother = card.get("Mother")
-        children = card.get("Children", [])
+
         
         if person not in graph:
             graph[person] = set()
